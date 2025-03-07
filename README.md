@@ -1,4 +1,4 @@
-# COSC420-Computer-Architecture-Simulator For a Modern Processor System in C++
+# COSC420-Simulator For a Modern Processor System in C++ -Computer-Architecture
 This program is executing a simulator for a modern processor system. This
 system includes:
 • A two-way set associative cache memory of 512 bytes.
